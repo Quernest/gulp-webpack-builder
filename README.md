@@ -14,7 +14,19 @@
 * Pug
 
 ### Commands
-* <code> yarn dev </code> - development
-* <code> yarn build </code> - production
-* <code> yarn clean </code> - delete dist folder
+* <code> yarn dev </code>
+* <code> yarn build </code>
+* <code> yarn clean </code>
+
+### Source folder structure
+* src
+  * assets
+    * images
+    * fonts
+  * js
+    * *.js
+  * styles
+    * *.scss
+  * views
+    * *.pug
 
