@@ -1,4 +1,4 @@
-### Front-End workspace
+## Front-End workspace
 <hr>
 
 #### Installation with yarn
@@ -8,10 +8,10 @@
 <code>npm install</code>
 
 ### Contains
-* Gulp 4.x.x
-* Webpack-Stream 4.x.x
-* Babel 6.x.x
-* SCSS preprocessor
+* Gulp
+* Webpack
+* Babel
+* SCSS
 * Pug
 
 ### Commands
