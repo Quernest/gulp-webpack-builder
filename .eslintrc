@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "google"
+  ],
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules": {},
+  "env": {
+    "es6": true
+  }
+}
