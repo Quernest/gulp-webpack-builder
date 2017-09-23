@@ -1,10 +1,9 @@
 ## Front-End workspace
-<hr>
 
-#### Installation with yarn
+### Installation with yarn
 <code>yarn install</code>
 
-#### or npm
+### or npm
 <code>npm install</code>
 
 ### Contains
